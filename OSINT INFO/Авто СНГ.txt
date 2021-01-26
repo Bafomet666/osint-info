@@ -1,0 +1,30 @@
+Сервисы-агрегаторы
+└ https://avinfo.guru/
+└ https://avtocod.ru/
+└ https://autoteka.ru/
+└ https://auto.ru/history/
+└ https://avtobot.net/
+└ https://www.nomerogram.ru/
+
+Отзывы о госномерах
+└ http://avto-nomer.ru/ru/
+└ http://duraki-na-doroge.ru/
+
+Проверка автомобиля ГИБДД
+└ https://гибдд.рф/check/auto/
+
+Проверка штрафов ГИБДД
+└ https://гибдд.рф/check/fines
+└ http://shtrafometr.ru/
+
+Нахождение в залоге
+└ https://www.reestr-zalogov.ru/search/index
+
+Проверка полиса ОСАГО
+└ https://dkbm-web.autoins.ru/dkbm-web-1.0/bsostate.htm
+
+Расшифровка VIN-кода
+└ https://www.autocheck.com/
+└ http://www.vinformer.su/ident/vin.php
+└ https://ru.vin-info.com/
+└ https://vin01.ru/

@@ -1,0 +1,17 @@
+Узнаем Яндекс ID:
+└ переходим на yandex.ru/collections/user/НИКНЕЙМ
+└ щелкаем правой кнопкой мыши и выбираем "Просмотр кода страницы"
+└ находим "cover_info" и пользовательский ID рядом.
+
+Подставляем данные в ссылки
+└ yandex.ru/collections/user/НИКНЕЙМ/
+└ n.maps.yandex.ru/#!/users/ЯНДЕКС_ID
+└ music.yandex.ru/user/НИКНЕЙМ/
+
+Узнаем Public ID:
+└ переходим на yandex.ru/collections/user/НИКНЕЙМ
+└ щелкаем правой кнопкой мыши и выбираем "Просмотр кода страницы"
+└ находим "public_id" и публичный ID рядом (например: c48fhxw0qppa50289r5c9ku4k4).
+
+Подставляем данные в ссылки
+└ yandex.ru/user/<Public_id> 
